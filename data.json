@@ -1,0 +1,33 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nama": "Hassan"
+    },
+    {
+      "id": 1,
+      "nama": "Hassan"
+    },
+    {
+      "id": 1,
+      "nama": "Hassan"
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "nama": "Hassan",
+      "image": "suasuiasuias.jpg"
+    },
+    {
+      "id": 1,
+      "nama": "Hassan",
+      "image": "suasuiasuias.jpg"
+    },
+    {
+      "id": 1,
+      "nama": "Hassan",
+      "image": "suasuiasuias.jpg"
+    }
+  ]
+}
